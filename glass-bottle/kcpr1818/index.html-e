@@ -14,7 +14,7 @@
 <meta name="title" content="Katyayani Creations | Noida | Home Decor & Toys Shop | Stationary | Gift Items">
 <meta name="description" content="Katyayani Cre@tions is One Stop Shop For All Your Needs, We sell Home Decor, Stationery, Birthday Items, Toys">
 <meta property="og:description" content="Katyayani Cre@tions is One Stop Shop For All Your Needs, We sell Home Decor, Stationery, Birthday Items, Toys" />
-<meta name="keywords" content="katyayani, creations, cre@tions, gift, toys, Katyayani Creations | Noida | Home Decor & Toys Shop | Stationary | Gift Items">
+<meta name="keywords" content="katyayani, creations, gifts, toys, home decor, stationery, Katyayani Creations | Noida | Home Decor & Toys Shop | Stationary | Gift Items">
 <meta property="og:title" content="Katyayani Creations | Noida | Home Decor & Toys Shop | Stationary | Gift Items">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@Katyayani2022">
@@ -65,16 +65,6 @@ window.location.href = url + prod_url.toLowerCase() + "/" + sku + "?p=" + sku;
 } else {window.location.href = url + name.split(" ").join("-").toLowerCase() + "/" + sku + "?p=" + sku;}
 }
 </script>
-<style>
-.social_icon_link {color:blue;}
-.blink_text{color:#ff77b7 !important;}
-.menu-custom li{margin-right: 15px !important;}
-.menu-custom li:active{text-decoration:underline;}
-.side_menu li a.active{font-weight:bold;}
-ul.side_sub_menu li {margin-left:20px;}
-.blink{display:none;}
-#products{width:100% !important;}
-</style>
 </head>
 <body>
 <div id="preloder"><div class="loader"></div></div>
@@ -292,7 +282,7 @@ ul.side_sub_menu li {margin-left:20px;}
 <div class="row">
 <div class="col-lg-12">
 <div class="section-title">
-<h2>Featured Product</h2>
+<h1>Featured Product</h1>
 </div>
 <div class="featured__controls">
 <ul>
@@ -646,7 +636,7 @@ OFF)</span>                </div>
 </div>
 </div><div class="col-lg-3 col-md-4 col-sm-6 mix  return_gift_items kanjak_gifts stationery featured_product"
 data-price="20.00" data-cats=""
-data-brands="0" data-quantity="29">
+data-brands="0" data-quantity="28">
 <div class="featured__item">
 <div data-imageindex="0" class="featured__item__pic set-bg-new"
 data-domain="https://d1s4zcjwkikclq.cloudfront.net/featured_prod_images/KCPR1592/" data-images="1678031803.jpg,"
@@ -662,7 +652,7 @@ onclick="setLike(event, '592')"><i class="fa fa-heart"></i></a></li>
 Cartoon Lipstick Shaped Eraser</a>
 </div>
 <div class="card_price">
-₹20.00(29)
+₹20.00(28)
 <span style="color:#ff7043 !important">&nbsp;(20%
 OFF)</span>                </div>
 <div class="strike_price">₹<s>25.00</s></div>
@@ -670,7 +660,7 @@ OFF)</span>                </div>
 </div>
 </div><div class="col-lg-3 col-md-4 col-sm-6 mix kanjak_gifts return_gift_items stationery  unicorn featured_product"
 data-price="60.00" data-cats=""
-data-brands="0" data-quantity="3">
+data-brands="0" data-quantity="2">
 <div class="featured__item">
 <div data-imageindex="0" class="featured__item__pic set-bg-new"
 data-domain="https://d1s4zcjwkikclq.cloudfront.net/featured_prod_images/KCPR1357/" data-images="1666360779.jpg,"
@@ -686,7 +676,7 @@ onclick="setLike(event, '357')"><i class="fa fa-heart"></i></a></li>
 Suitcase Eraser Sharpener</a>
 </div>
 <div class="card_price">
-₹60.00(3)
+₹60.00(2)
 <span style="color:#ff7043 !important">&nbsp;(20%
 OFF)</span>                </div>
 <div class="strike_price">₹<s>75.00</s></div>
