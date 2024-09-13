@@ -46,7 +46,7 @@
 <script src="https://d1s4zcjwkikclq.cloudfront.net/js/mixitup.min.js"></script>
 <script src="https://d1s4zcjwkikclq.cloudfront.net/js/owl.carousel.min.js"></script>
 <script src="https://katyayani-creations.onrender.com/js/main.js?ver=21"></script>
-<script src="https://katyayani-creations.onrender.com/productarray.js?ver=11-09-2024" type="text/javascript"></script>
+<script src="https://katyayani-creations.onrender.com/productarray.js?ver=13-09-2024" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
 <script>
@@ -466,30 +466,6 @@ OFF)</span>                </div>
 <div class="strike_price">₹<s>30.00</s></div>
 </div>
 </div>
-</div><div class="col-lg-3 col-md-4 col-sm-6 mix home_decor lamps mothers_day_store featured_product"
-data-price="1350.00" data-cats=""
-data-brands="0" data-quantity="1">
-<div class="featured__item">
-<div data-imageindex="0" class="featured__item__pic set-bg-new"
-data-domain="https://d1s4zcjwkikclq.cloudfront.net/featured_prod_images/KCPR1822/" data-images="16971159620.jpeg,"
-onclick="return redirectToProduct('822', 'Ganesh-Ji-Water-Fountain', 'KCPR1822');">
-<ul class="featured__item__pic__hover">
-<li><a href="#" class=" prod_like_icon_822"
-onclick="setLike(event, '822')"><i class="fa fa-heart"></i></a></li>
-</ul>
-</div>
-<div class="featured__item__text">
-<div class="strike_price">
-<a class="link_to_product" href="https://katyayani-creations.onrender.com/Ganesh-Ji-Water-Fountain/kcpr1822?p=kcpr1822">
-Water Fountain with Lord Ganesha, Multicolor LED Lights</a>
-</div>
-<div class="card_price">
-₹1350.00(1)
-<span style="color:#ff7043 !important">&nbsp;(10%
-OFF)</span>                </div>
-<div class="strike_price">₹<s>1500.00</s></div>
-</div>
-</div>
 </div><div class="col-lg-3 col-md-4 col-sm-6 mix unicorn return_gift_items kanjak_gifts stationery featured_product"
 data-price="20.00" data-cats=""
 data-brands="0" data-quantity="6">
@@ -512,6 +488,30 @@ Unicorn Transparent Pouch</a>
 <span style="color:#ff7043 !important">&nbsp;(20%
 OFF)</span>                </div>
 <div class="strike_price">₹<s>25.00</s></div>
+</div>
+</div>
+</div><div class="col-lg-3 col-md-4 col-sm-6 mix home_decor lamps mothers_day_store featured_product"
+data-price="1350.00" data-cats=""
+data-brands="0" data-quantity="1">
+<div class="featured__item">
+<div data-imageindex="0" class="featured__item__pic set-bg-new"
+data-domain="https://d1s4zcjwkikclq.cloudfront.net/featured_prod_images/KCPR1822/" data-images="16971159620.jpeg,"
+onclick="return redirectToProduct('822', 'Ganesh-Ji-Water-Fountain', 'KCPR1822');">
+<ul class="featured__item__pic__hover">
+<li><a href="#" class=" prod_like_icon_822"
+onclick="setLike(event, '822')"><i class="fa fa-heart"></i></a></li>
+</ul>
+</div>
+<div class="featured__item__text">
+<div class="strike_price">
+<a class="link_to_product" href="https://katyayani-creations.onrender.com/Ganesh-Ji-Water-Fountain/kcpr1822?p=kcpr1822">
+Transform Your Space with the Water Fountain with Lord Ganesha and Multicolor LED Lights</a>
+</div>
+<div class="card_price">
+₹1350.00(1)
+<span style="color:#ff7043 !important">&nbsp;(10%
+OFF)</span>                </div>
+<div class="strike_price">₹<s>1500.00</s></div>
 </div>
 </div>
 </div><div class="col-lg-3 col-md-4 col-sm-6 mix pens stationery featured_product"
@@ -610,30 +610,6 @@ OFF)</span>                </div>
 <div class="strike_price">₹<s>70.00</s></div>
 </div>
 </div>
-</div><div class="col-lg-3 col-md-4 col-sm-6 mix toys featured_product"
-data-price="70.00" data-cats=""
-data-brands="0" data-quantity="12">
-<div class="featured__item">
-<div data-imageindex="0" class="featured__item__pic set-bg-new"
-data-domain="https://d1s4zcjwkikclq.cloudfront.net/featured_prod_images/KCPR11131/" data-images="KCPR11131_17237796076.webp,"
-onclick="return redirectToProduct('1131', 'plastic-ping-pong-catcher-ball-set', 'KCPR11131');">
-<ul class="featured__item__pic__hover">
-<li><a href="#" class=" prod_like_icon_1131"
-onclick="setLike(event, '1131')"><i class="fa fa-heart"></i></a></li>
-</ul>
-</div>
-<div class="featured__item__text">
-<div class="strike_price">
-<a class="link_to_product" href="https://katyayani-creations.onrender.com/plastic-ping-pong-catcher-ball-set/kcpr11131?p=kcpr11131">
-Plastic Ping Pong Catcher Ball Set</a>
-</div>
-<div class="card_price">
-₹70.00(12)
-<span style="color:#ff7043 !important">&nbsp;(54%
-OFF)</span>                </div>
-<div class="strike_price">₹<s>149.00</s></div>
-</div>
-</div>
 </div><div class="col-lg-3 col-md-4 col-sm-6 mix  return_gift_items kanjak_gifts stationery featured_product"
 data-price="20.00" data-cats=""
 data-brands="0" data-quantity="28">
@@ -656,6 +632,30 @@ Cartoon Lipstick Shaped Eraser</a>
 <span style="color:#ff7043 !important">&nbsp;(20%
 OFF)</span>                </div>
 <div class="strike_price">₹<s>25.00</s></div>
+</div>
+</div>
+</div><div class="col-lg-3 col-md-4 col-sm-6 mix toys featured_product"
+data-price="70.00" data-cats=""
+data-brands="0" data-quantity="12">
+<div class="featured__item">
+<div data-imageindex="0" class="featured__item__pic set-bg-new"
+data-domain="https://d1s4zcjwkikclq.cloudfront.net/featured_prod_images/KCPR11131/" data-images="KCPR11131_17237796076.webp,"
+onclick="return redirectToProduct('1131', 'plastic-ping-pong-catcher-ball-set', 'KCPR11131');">
+<ul class="featured__item__pic__hover">
+<li><a href="#" class=" prod_like_icon_1131"
+onclick="setLike(event, '1131')"><i class="fa fa-heart"></i></a></li>
+</ul>
+</div>
+<div class="featured__item__text">
+<div class="strike_price">
+<a class="link_to_product" href="https://katyayani-creations.onrender.com/plastic-ping-pong-catcher-ball-set/kcpr11131?p=kcpr11131">
+Plastic Ping Pong Catcher Ball Set</a>
+</div>
+<div class="card_price">
+₹70.00(12)
+<span style="color:#ff7043 !important">&nbsp;(54%
+OFF)</span>                </div>
+<div class="strike_price">₹<s>149.00</s></div>
 </div>
 </div>
 </div><div class="col-lg-3 col-md-4 col-sm-6 mix kanjak_gifts return_gift_items stationery  unicorn featured_product"
